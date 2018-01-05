@@ -4,14 +4,7 @@
 
 程序控制小人自动跳，几乎每次命中中心点。
 
-为了更好的展示运行效果，我贴一个刚刚录制的视频。http://v.youku.com/v_show/id_XMzI4NzM4MzI0NA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2
 
-如果你的运行效果，不像这个视频中所示，请一定要认真阅读“温馨提示”这个章节。
-
-欢迎大家与我交流意见。破解过程，总共花了3个小时，不断地调整算法与参数，因此代码比较乱，还请见谅。
-
-
-![](img/1.jpg)
 ![](img/2.png)
 ![](img/5.gif)
 
@@ -52,7 +45,7 @@
 
 1. 准备Java运行与编译环境，使用Java8以上，IDE推荐使用Intellij；
 2. 安装Android SDK；
-3. 使用 git工具clone项目，地址为https://github.com/burningcl/wechat_jump_hack；
+3. 使用 git工具clone项目，地址为https://github.com/lallana666/wechat_jump；
 4. 使用IDE（笔者使用Intellij）import该项目；
 5. 准备好一部已经打开开发者模式的Android手机；
 6. 请确认是否adb已经联接上你的手机；如果adb连接失败，则会导致截图与拉取截图失败，提示“find myPos, fail”；如果连着多个Android设备的话，最好关到只有一个；
